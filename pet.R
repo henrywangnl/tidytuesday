@@ -2,7 +2,6 @@
 
 library(tidyverse)
 library(tidytuesdayR)
-library(ggthemes)
 
 # Data --------------------------------------------------------------------
 
