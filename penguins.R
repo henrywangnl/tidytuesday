@@ -97,7 +97,7 @@ ggplot(data = penguins, aes(x = body_mass_g, y = species, fill = species, color 
        <span style = 'color:#C55BCC'>Chinstrap</span>, 
        <span style = 'color:#2D7174'>Gentoo</span>)",
        x = NULL,
-       caption = "Source: TidyTuesday Week31, 2020 <br>Dataviz: @henrywangnl") +
+       caption = "Dataviz: @henrywangnl <br>Artwork by @allison_horst") +
   theme(axis.title.y = element_blank(),
         axis.line.y = element_blank(),
         axis.text.y = element_blank(),
